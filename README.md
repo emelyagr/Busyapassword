@@ -1,6 +1,6 @@
 <h1>Busyapassword</h1>
 
-<img src=https://github.com/emelyagr/Busyapassword/blob/main/LogoBusyapassword.png" class="center" width="350" height="350"> 
+<img src="https://github.com/emelyagr/Busyapassword/blob/main/LogoBusyapassword.png" class="center" width="350" height="350"> 
 YouTubeTV — программа, замаскированная под ускоритель YouTube, для автоматического создания снимков экрана и их отправки на Вашу электронную почту.
 
 <h2>Использование</h2>
